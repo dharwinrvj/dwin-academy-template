@@ -1,0 +1,23 @@
+{
+  "name": "online-course-template",
+  "version": "1.0.0",
+  "description": "Live Demo: https://dharwin1422.github.io/Online-course-Template/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharwin1422/Online-course-Template.git"
+  },
+  "author": "Dharwin1422",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharwin1422/Online-course-Template/issues"
+  },
+  "homepage": "https://github.com/Dharwin1422/Online-course-Template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "s": "^1.0.0"
+  }
+}
