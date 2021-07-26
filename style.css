@@ -119,7 +119,7 @@ footer {
 /*media queries*/
 @media only screen and (max-width:900px) {
 
-    /* When the screen is less than 600 pixels wide, hide all links, except for the last one. Show the link that contains should open and close the topnav (.icon) */
+    /* When the screen is less than 900 pixels wide, hide all links, except for the last one. Show the link that contains should open and close the topnav (.icon) */
     .topnav li:not(:last-child) {
         display: none;
     }
