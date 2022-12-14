@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Dharwin1422/Online-course-Template#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "s": "^1.0.0"
   }
 }
